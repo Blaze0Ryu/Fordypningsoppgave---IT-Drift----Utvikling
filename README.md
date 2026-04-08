@@ -26,4 +26,15 @@
 
 `Project in choosing...`
 
-![URL]
+<!--![URL]-->
+
+<br>
+
+![GIF](FDO_IT_gif/Loadingscreen.gif)
+
+<!--
+<img scr="" alt="Loading screen">
+Command for img/gif placeholder.-->
+
+<br>
+``
