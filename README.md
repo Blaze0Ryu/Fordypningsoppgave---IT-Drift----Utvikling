@@ -73,6 +73,8 @@
 
 <br>
 
+<!--This command [url name](link) can be used to link a website in a text.-->
+
 ---
 
 <br>
