@@ -1,12 +1,15 @@
-> ## **Monday - 70426**
+> ## **Tuesday - 70426**
 >
 > - Creating a new GitHub repo in my GitHub account.
 >
 > ---
+
+> ---
 >
-> - Creating a new folder, f.eks.:
+> - Creating a new folder inside my school folder:
+>   <!---->
 >   - `Kuben Skole VG2 2025-2026`
->     - `Fordypningsoppgave IT VG 2`
+>     - **`Fordypningsoppgave IT VG 2`**
 >       - `Fordypningsoppgave---IT-Drift----Utvikling`
 >         - `FDO_IT_gif`
 >           - `Loadingscreen`
@@ -17,11 +20,11 @@
 >           - `Thursday100426.md`
 >         - `README.md`
 >
-> <br>
->
+> ---
+
 > ---
 >
-> <br>
+> -
 >
 > <br>
 >

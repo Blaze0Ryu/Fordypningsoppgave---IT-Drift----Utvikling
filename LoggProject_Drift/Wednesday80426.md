@@ -5,10 +5,10 @@
 > - `Writing the whole school project text down.`
 > - `Creating new .md files for the logg of this week.`
 >
-> <br>
->
+> ---
+
 > ---
 >
-> <br>
+> ![GIF](link)
 >
 > Date & time written: `80426-11.19`
