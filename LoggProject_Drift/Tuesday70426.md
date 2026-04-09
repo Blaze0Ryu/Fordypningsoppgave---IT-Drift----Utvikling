@@ -9,7 +9,7 @@
 > - Creating a new folder inside my school folder:
 >   <!---->
 >   - `Kuben Skole VG2 2025-2026`
->     - **`Fordypningsoppgave IT VG 2`**
+>     - #### **`Fordypningsoppgave IT VG 2`**
 >       - `Fordypningsoppgave---IT-Drift----Utvikling`
 >         - `FDO_IT_gif`
 >           - `Loadingscreen`
@@ -24,12 +24,39 @@
 
 > ---
 >
-> -
->
-> <br>
+> - **Writing a ReadME file in GitHub:**
+>   - Chosen languages
+>   - Which class specialation choices
+>   - Chosen choice
 >
 > ---
 >
-> <br>
+> - **School project:**
+>   - **Forslag på driftstemaer:**
+>     - Hacking/Cybersikkerhet
+>     - Databaser
+>     - Linux-server
+>     - Sertifiseringer
+>     - Active Directory Domain Services (AD DS)
 >
-> Date & time written: `80426-11.24`
+> ---
+>
+> - Felles - hva du Må gjøre
+>   - GitHub dokumentasjon
+>   - Repository innhold
+>   - Daglig logg
+>
+> ---
+
+> ---
+>
+> - Project still in choosing
+>
+> ---
+
+> ---
+>
+> Date & time written:
+>
+> - `80426-11.24`
+> - `90426-10.48`
