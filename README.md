@@ -2,6 +2,8 @@
 
 <br>
 
+![GIF](FDO_IT_gif/Fallingwaterdrop_reflect.gif)
+
 **`Loading languages..`**
 
 1. English
@@ -122,6 +124,12 @@ Hver logginføring skal innholde:
 Command for img/gif placeholder.-->
 
 `Loading...`
+
+> - Thoughts?:
+>   - Gaming server (Minecraft)
+>   - Homelab
+>   - Dismantling pc
+>   - etc.
 
 <br>
 

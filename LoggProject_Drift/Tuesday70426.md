@@ -51,6 +51,12 @@
 > ---
 >
 > - Project still in choosing
+>   - Thoughts?:
+>     - Gaming server (Minecraft)
+>     - Homelab
+>     - Dismantling pc
+>     -
+>     - etc.
 >
 > ---
 
