@@ -12,11 +12,24 @@
 > - Animasjon gif (deco)
 > - writing logg for Tuesday, Wednesday & Thursday.
 >
-> ![GIF]()
+> ---
+
+<br>
+
+> ---
+>
+> _`[Edit.: Monday logg was deleted (60426 - no school (Holidays))]`_
+>
+> <!--![GIF]()-->
 >
 > ---
 
 <br>
+
+> **Example videos:**
+>
+> - [How to UN-Build a Computer](https://www.youtube.com/watch?v=WqxQcePWAak)
+> -
 
 > ---
 >
@@ -24,3 +37,4 @@
 >
 > - `80426-11.19`
 > - `90426-11.11`
+> - `130426`

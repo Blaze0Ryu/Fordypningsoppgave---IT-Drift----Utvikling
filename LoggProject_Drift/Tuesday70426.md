@@ -55,8 +55,17 @@
 >     - Gaming server (Minecraft)
 >     - Homelab
 >     - Dismantling pc
->     -
 >     - etc.
+>
+> ---
+
+> ---
+>
+> **Example videos searched up:**
+>
+> - [Unscrewing old pc](https://www.youtube.com/results?search_query=unscrewing+old+pc)
+> - [Hosting a Dedicated Game Server - Beginner's Guide To Get You Started](https://www.youtube.com/watch?v=WOOlykfOiX8)
+> - [how to host a minecraft gaming server](https://www.youtube.com/results?search_query=how+to+host+a+minecraft+gaming+server)
 >
 > ---
 
@@ -66,3 +75,4 @@
 >
 > - `80426-11.24`
 > - `90426-10.48`
+> - `130426-13.38`
