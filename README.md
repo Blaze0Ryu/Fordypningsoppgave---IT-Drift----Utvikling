@@ -1,5 +1,8 @@
 # Fordypningsoppgave---IT-Drift----Utvikling
 
+> - `[Fordypningsuke skal blir to uke langt.]`
+> - `[Fra uke 15 og 16.]`
+
 <br>
 
 ![GIF](FDO_IT_gif/Fallingwaterdrop_reflect.gif)
@@ -133,4 +136,6 @@ Command for img/gif placeholder.-->
 
 <br>
 
-``
+**`Choosen project:`**
+
+- `Dismantling devices` [Tuesday Logg](LoggProject_Drift/Tuesday140426.md)
