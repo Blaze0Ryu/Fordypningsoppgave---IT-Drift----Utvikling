@@ -5,7 +5,7 @@
 
 > ---
 >
-> -
+> - `Rechecking GitHub + Terminal commands in` _`Command Sheet Code`_
 > -
 > -
 > -
