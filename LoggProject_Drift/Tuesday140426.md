@@ -39,16 +39,18 @@
 >
 > - `Dismantling ASUS Ruter: [+ Pictures]`
 >   - Turning the Asus Ruter around.
->   - Getting ready to choose which screwdriver to choose.
->     <img src ="![alt text](../Dismantling/Dismantling_tools/Skrewdriver_redminus_sign_140426.png)" alt ="Skrevdriver with the red minus sign">
->   - Taking the 4 small pillows out from their holder with the help with the mentioned skrewdriver.
->   - Skrewing the small black skrews out with a ![Skrewdriver with the yellow star sign]() _[placeholders as of now as the internet doesn't work + figuring out the picture file]_
->   - With the help of a thicker [Skrewdriver which has the back part looking like a spiderbody + front part can have different parts pushed in]() _[placeholder as of now]_ do I squeeze it between the two plates of the ruter [Placeholder]()
->   - The roof was pulled off and taken to the side.
->   - Inside can be seen a green plate and 3 different cables which go inside the ruter legs (2 grey whites + 1 black)
->   - Pulled out the 3 cables from their hangers.
->   - Taking the green plate out, to turn it around to look at the other side.
->   - Based on observation: - The green plate has a few of tiny black plates sticking on both of the green sides, and a bunch of small silver circles. - The green plate itself looks like a map of a city/village from above a bird's view. - Pictures were taken from both outside and inside the ASUS ruter. [7 pictures] - Setting the green plate back to it's own position, with the buttons to their right position before klipping the cables back into their respectful hangers. - Laying the roof back on the ruter and pushing it down to hear a few clicks. - Screwing all the 4 skrews back into their right places. - Placing down the 4 small black pillows back on top of the skrews.
+>   - Getting ready to choose which screwdriver to choose [Skrevdriver with the red minus sign](https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/Dismantling/Dismantling_tools/Skrewdriver_redminus_sign_140426.png)
+
+<!--   <img src ="![alt text](../Dismantling/Dismantling_tools/Skrewdriver_redminus_sign_140426.png)" alt ="Skrevdriver with the red minus sign"> -->
+
+> - Taking the 4 small pillows out from their holder with the help with the mentioned skrewdriver.
+> - Skrewing the small black skrews out with a [Skrewdriver with the yellow star sign](https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/Dismantling/Dismantling_tools/Skrewdriver_yellowstar_sign_140426.png) _[Edit.: 140426 - placeholders as of now as the internet doesn't work + figuring out the picture file]_
+> - With the help of a thicker [Skrewdriver which has the back part looking like a spiderbody + front part can have different parts pushed in](https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/Dismantling/Dismantling_tools/Skrewdriver_spiderbody_140426.png) do I squeeze it between the two plates of the ruter [Placeholder]()
+> - The roof was pulled off and taken to the side.
+> - Inside can be seen a green plate and 3 different cables which go inside the ruter legs (2 grey whites + 1 black)
+> - Pulled out the 3 cables from their hangers.
+> - Taking the green plate out, to turn it around to look at the other side.
+> - Based on observation: - The green plate has a few of tiny black plates sticking on both of the green sides, and a bunch of small silver circles. - The green plate itself looks like a map of a city/village from above a bird's view. - Pictures were taken from both outside and inside the ASUS ruter. [7 pictures] - Setting the green plate back to it's own position, with the buttons to their right position before klipping the cables back into their respectful hangers. - Laying the roof back on the ruter and pushing it down to hear a few clicks. - Screwing all the 4 skrews back into their right places. - Placing down the 4 small black pillows back on top of the skrews.
 >
 > ---
 
