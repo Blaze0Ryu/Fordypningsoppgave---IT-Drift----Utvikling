@@ -39,9 +39,10 @@
 >
 > - `Dismantling ASUS Ruter: [+ Pictures]`
 >   - Turning the Asus Ruter around.
->   - Getting ready to choose which screwdriver to choose. [Skrevdriver with the red minus sign](Dismantling_tools/)
+>   - Getting ready to choose which screwdriver to choose.
+>     <img src ="![alt text](../Dismantling/Dismantling_tools/Skrewdriver_redminus_sign_140426.png)" alt ="Skrevdriver with the red minus sign">
 >   - Taking the 4 small pillows out from their holder with the help with the mentioned skrewdriver.
->   - Skrewing the small black skrews out with a [Skrewdriver with the yellow star sign]() _[placeholders as of now as the internet doesn't work + figuring out the picture file]_
+>   - Skrewing the small black skrews out with a ![Skrewdriver with the yellow star sign]() _[placeholders as of now as the internet doesn't work + figuring out the picture file]_
 >   - With the help of a thicker [Skrewdriver which has the back part looking like a spiderbody + front part can have different parts pushed in]() _[placeholder as of now]_ do I squeeze it between the two plates of the ruter [Placeholder]()
 >   - The roof was pulled off and taken to the side.
 >   - Inside can be seen a green plate and 3 different cables which go inside the ruter legs (2 grey whites + 1 black)
