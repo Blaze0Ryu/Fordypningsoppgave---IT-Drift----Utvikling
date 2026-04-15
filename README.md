@@ -139,3 +139,37 @@ Command for img/gif placeholder.-->
 **`Choosen project:`**
 
 - `Dismantling devices` [Tuesday Logg](LoggProject_Drift/Tuesday140426.md)
+
+> ---
+>
+> _`150426`_
+>
+> ### **Folder Structur:**
+>
+> - `Kuben Skole VG2 2025-2026`
+>   - `Fordypningsoppgave IT VG 2`
+>     - `Fordypningsoppgave---IT-Drift----Utvikling`
+>       - **`DecoAnimation_gif`**
+>         - `Indifferent_emoji1_gif.gif`
+>         - `indifferent_emoji2_gif.gif`
+>         - `indifferentemoji1_sprite.png`
+>         - `indifferentemoji2_sprite.png`
+>       - **`Dismantling`**
+>         - `altibox_Ruter2`
+>         - **`ASUS_Ruter1`**
+>           - `Ruter1_backgreenplate_140426.png`
+>           - `Ruter2_frontgreenplate3_140426.png`
+>           - `Ruter3_frontgreenplate2_140426.png`
+>           - `Ruter4_frontgreenplate_140426.png`
+>           - `Ruter5_roof_140426.png`
+>           - `Ruter6_back_140426.png`
+>           - `Ruter7_front_140426.png`
+>         - `Dismantling_tools`
+>       - **`FDO_IT_gif`**
+>         - `Loadingscreen`
+>       - **`LoggProject_Drift`**
+>         - `Monday70426.md`
+>         - `Tuesday80426.md`
+>         - `Wednesday90426.md`
+>         - `Thursday100426.md`
+>       - **`README.md`**

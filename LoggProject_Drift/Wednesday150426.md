@@ -19,10 +19,13 @@
 > _`[10.30-12.00]`_
 >
 > - Continued trying to open the ruter.
-> -
+> - Didn't worked out.
+>   - The only thing that worked was pulling out the small black pillows and the skrews.
 >
 > ---
 
+> ---
+>
 > Date & time written:
 >
 > `150426`
