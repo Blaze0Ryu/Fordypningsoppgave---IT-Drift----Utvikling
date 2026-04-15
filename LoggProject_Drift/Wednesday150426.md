@@ -11,10 +11,18 @@
 > - writing logg of today.
 > - fixing the adding the picture command in Visual Studio Code [VSC] in [Tuesday Logg](Tuesday140426.md)
 >   - All the logg is written in VSC.
-> -
+>
+> ---
 
 > ---
 >
+> _`[10.30-12.00]`_
+>
+> - Continued trying to open the ruter.
+> -
+>
+> ---
+
 > Date & time written:
 >
 > `150426`
