@@ -39,7 +39,7 @@
 >
 > - `Dismantling ASUS Ruter: [+ Pictures]`
 >   - Turning the Asus Ruter around.
->   - Getting ready to choose which screwdriver to choose. [Skrevdriver with the red minus sign]()
+>   - Getting ready to choose which screwdriver to choose. [Skrevdriver with the red minus sign](Dismantling_tools/)
 >   - Taking the 4 small pillows out from their holder with the help with the mentioned skrewdriver.
 >   - Skrewing the small black skrews out with a [Skrewdriver with the yellow star sign]() _[placeholders as of now as the internet doesn't work + figuring out the picture file]_
 >   - With the help of a thicker [Skrewdriver which has the back part looking like a spiderbody + front part can have different parts pushed in]() _[placeholder as of now]_ do I squeeze it between the two plates of the ruter [Placeholder]()
