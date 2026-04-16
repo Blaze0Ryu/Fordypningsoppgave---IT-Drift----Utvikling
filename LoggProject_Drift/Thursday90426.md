@@ -1,4 +1,4 @@
-> ## **Wednesday - 90426**
+> ## **Thursday - 90426**
 >
 > - _`[Edit.: Loading information about the 2 hours]`_
 > -

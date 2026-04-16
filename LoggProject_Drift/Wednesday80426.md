@@ -1,4 +1,4 @@
-> ## **Tuesday - 80426**
+> ## **Wednesday - 80426**
 >
 > - `5 hours ago = adding the ReadMe WIP`
 > - `1 hour ago = Searching gif links command for READmd`
