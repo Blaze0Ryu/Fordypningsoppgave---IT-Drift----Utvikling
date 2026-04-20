@@ -31,7 +31,7 @@
 >
 > _`[Using IPad for taking pictures]`_
 >
-> - > - writing down the notes from 'Sticky Notes' while dismantling the ASUS ruter with the help of a YouTube video [ASUS RT AX53U Teardown: One of the cheapest WiFi 6 routes from ASUS](https://www.youtube.com/watch?v=Bg4nH1_6A6s).
+> - writing down the notes from 'Sticky Notes' while dismantling the ASUS ruter with the help of a YouTube video [ASUS RT AX53U Teardown: One of the cheapest WiFi 6 routes from ASUS](https://www.youtube.com/watch?v=Bg4nH1_6A6s).
 >
 > ---
 
@@ -128,6 +128,10 @@
 > - Update: `13.49` `Still loading... Connecting...`
 > - Update: `14.06` `Connecting...`
 > - Update: `14.14` School day end.
+>
+> ---
+
+<br>
 
 > ---
 >
