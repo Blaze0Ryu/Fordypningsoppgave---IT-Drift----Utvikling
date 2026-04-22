@@ -133,7 +133,17 @@
 
 <br>
 
-<img src='https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/DecoAnimation_gif/indifferent_emoji2_gif.gif'>
+<img src='https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/DecoAnimation_gif/indifferent_emoji2_gif.gif' width='48%' height='300'>
+<!--This gif command works in the GitHub logg project, yet it doesn't show in the Visual Studio preview.-->
+
+> ---
+>
+> Gif example used for help:
+>
+> - [How-to-gif](https://github.com/stevkim/how-to-gif/blob/main/README.md)
+> - [How to add GIFs on README.md in a GitHub repo](https://www.geeksforgeeks.org/git/how-to-add-gifs-on-readme-md-file-in-a-github-repository/)
+>
+> ---
 
 <br>
 
