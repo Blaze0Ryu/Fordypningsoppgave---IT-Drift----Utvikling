@@ -133,7 +133,7 @@
 
 <br>
 
-<img src='https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/DecoAnimation_gif/indifferent_emoji2_gif.gif' width='48%' height='300'>
+<img src='https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/DecoAnimation_gif/indifferent_emoji2_gif.gif'>
 <!--This gif command works in the GitHub logg project, yet it doesn't show in the Visual Studio preview.-->
 
 > ---
