@@ -133,6 +133,10 @@
 
 <br>
 
+<img src='https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/DecoAnimation_gif/indifferent_emoji2_gif.gif'>
+
+<br>
+
 > ---
 >
 > Date & time written:
