@@ -136,6 +136,14 @@
 <img src='https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/DecoAnimation_gif/indifferent_emoji2_gif.gif'>
 <!--This gif command works in the GitHub logg project, yet it doesn't show in the Visual Studio preview.-->
 
+<!--The gif size adjustment inside the 'img src' didn't worked out well. Deleted it.-->
+
+<!--![GIF](../FDO_IT_gif/Fallingwaterdrop_reflect.gif)
+- relative path
+
+![GIF]("https://github.com/Blaze0Ryu/Fordypningsoppgave---IT-Drift----Utvikling/blob/main/DecoAnimation_gif/indifferent_emoji2_gif.gif?raw=true")
+-absolute path for e.g can be https://example.com/images/logo.png -->
+
 > ---
 >
 > Gif example used for help:
