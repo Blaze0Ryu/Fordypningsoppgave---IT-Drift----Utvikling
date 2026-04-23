@@ -180,8 +180,10 @@ Command for img/gif placeholder.-->
 >         - `Monday130426.md`
 >         - `Thursday90426.md`
 >         - `Thursday160426.md`
+>         - `Thursday230426`
 >         - `Tuesday70426.md`
 >         - `Tuesday140426.md`
+>         - `Tuesday210426.md`
 >         - `Wednesday80426.md`
 >         - `Wednesday150426.md`
 >       - **`README.md`**
